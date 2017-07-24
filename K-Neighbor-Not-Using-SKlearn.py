@@ -74,7 +74,7 @@ for group in test_set:
             correct += 1
         total += 1
 
-print 'accuracy:' , float(correct)/total
+print ('accuracy:' , float(correct)/total)
 
 
 #for i in dataset:
